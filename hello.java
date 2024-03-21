@@ -8,7 +8,7 @@ public class hello {
        String firstName = "Zachary";
 
        // delete this line
-       System.out.println("this should fail the workflow" + firstName);
+       System.out.println("Hello, I am " + firstName);
 	
        // Using the value of the variable above, output a message in the format, "Hello, I am Alex".
 
